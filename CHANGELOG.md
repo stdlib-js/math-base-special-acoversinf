@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-03)
+## Unreleased (2024-09-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`35462f8`](https://github.com/stdlib-js/stdlib/commit/35462f8357fdcb513679a7344fa3a5cc4c3ef55f) - **style:** update heading and fix line wrapping [(#2867)](https://github.com/stdlib-js/stdlib/pull/2867) _(by Gunj Joshi)_
 -   [`b2268e5`](https://github.com/stdlib-js/stdlib/commit/b2268e57b78b3a774f37e984faebd95ac7c0ba69) - **feat:** add `math/base/special/acoversinf` [(#2860)](https://github.com/stdlib-js/stdlib/pull/2860 ) _(by Gunj Joshi)_
 
 </details>
