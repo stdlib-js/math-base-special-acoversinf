@@ -58,7 +58,7 @@ The [inverse coversed sine][inverse-coversed-sine] is defined as
 ## Usage
 
 ```javascript
-import acoversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acoversinf@esm/index.mjs';
+import acoversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acoversinf@v0.1.1-esm/index.mjs';
 ```
 
 #### acoversinf( x )
@@ -107,7 +107,7 @@ v = acoversinf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import acoversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acoversinf@esm/index.mjs';
+import acoversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acoversinf@v0.1.1-esm/index.mjs';
 
 var x = uniform( 100, 0.0, 2.0, {
     'dtype': 'float32'
