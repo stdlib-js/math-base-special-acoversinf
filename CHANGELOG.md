@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-29)
+## Unreleased (2026-07-31)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e932b6f`](https://github.com/stdlib-js/stdlib/commit/e932b6f0cd73958e0a78e2198397dc440eeb7b2e) - **test:** migrate `math/base/special/acoversinf` to ULP-based testing [(#13774)](https://github.com/stdlib-js/stdlib/pull/13774) _(by Ujjwal Verma, Athan Reines)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
+-   Ujjwal Verma
 
 </section>
 
